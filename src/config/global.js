@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Plan de mercadeo internacional.',
+    Name: 'Plan de mercadeo internacional',
     Description:
       'Este componente permite formular planes de mercadeo internacional mediante el análisis de objetivos, diagnóstico situacional y estrategias globales. El aprendiz desarrollará competencias para diseñar un plan estructurado, aplicando criterios técnicos, recursos adecuados y herramientas efectivas, orientadas a la proyección y posicionamiento de productos o servicios en mercados internacionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
