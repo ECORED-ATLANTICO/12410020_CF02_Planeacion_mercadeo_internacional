@@ -1,4 +1,4 @@
-# **sena-base-2025 v1.0.0**
+# **Planeación estratégica de mercadeo internacional**
 
 ## **Enlace GitHubPages**
 
