@@ -150,7 +150,7 @@
             figure
               img.d-none.d-md-flex(src="@/assets/curso/tema1/8.png", data-aos="zoom-in", alt="La figura presenta los criterios fundamentales que deben considerarse al momento de formular objetivos. Claridad: deben ser específicos y comprensibles. Alcanzables: realistas según los recursos y capacidades. Tiempo definido: establecer un plazo para su cumplimiento. Medibles: posibles de cuantificar y evaluar. Relevancia: coherentes con la estrategia global de la empresa.  ")
               img.d-flex.d-md-none(src="@/assets/curso/tema1/8-1.png", data-aos="zoom-in", alt="La figura presenta los criterios fundamentales que deben considerarse al momento de formular objetivos. Claridad: deben ser específicos y comprensibles. Alcanzables: realistas según los recursos y capacidades. Tiempo definido: establecer un plazo para su cumplimiento. Medibles: posibles de cuantificar y evaluar. Relevancia: coherentes con la estrategia global de la empresa.  ")
-            figcaption.mt-2.mb-4 <b>Fuente</b>: SENA, 2025.
+            figcaption.mt-2.mb-4 <b>Nota</b>. Adaptado SENA (2025).
 
     .bg-color-3.p-4(data-aos="fade-left").mb-5
       .row.align-items-start
