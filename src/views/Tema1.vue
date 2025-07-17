@@ -87,7 +87,7 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle.bg-color-5
-                p.mb-0 <b>Ejemplo aplicado</b>: Aguacatex trabaja para posicionar su aguacate Hass como un producto premium en Estados Unidos, destacando su calidad superior y sus prácticas sostenibles en producción.
+                p.mb-0 <b>Ejemplo aplicado</b>: Aguacatex trabaja para posicionar su aguacate Hass como un producto <em>premium</em> en Estados Unidos, destacando su calidad superior y sus prácticas sostenibles en producción.
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta acordion-mercado").mb-5
       div(titulo="Objetivos de rentabilidad")
@@ -148,8 +148,8 @@
               span Criterios para el diseño de objetivos SMART
         
             figure
-              img.d-none.d-md-flex(src="@/assets/curso/tema1/8.png", data-aos="zoom-in")
-              img.d-flex.d-md-none(src="@/assets/curso/tema1/8-1.png", data-aos="zoom-in")
+              img.d-none.d-md-flex(src="@/assets/curso/tema1/8.png", data-aos="zoom-in", alt="La figura presenta los criterios fundamentales que deben considerarse al momento de formular objetivos. Claridad: deben ser específicos y comprensibles. Alcanzables: realistas según los recursos y capacidades. Tiempo definido: establecer un plazo para su cumplimiento. Medibles: posibles de cuantificar y evaluar. Relevancia: coherentes con la estrategia global de la empresa.  ")
+              img.d-flex.d-md-none(src="@/assets/curso/tema1/8-1.png", data-aos="zoom-in", alt="La figura presenta los criterios fundamentales que deben considerarse al momento de formular objetivos. Claridad: deben ser específicos y comprensibles. Alcanzables: realistas según los recursos y capacidades. Tiempo definido: establecer un plazo para su cumplimiento. Medibles: posibles de cuantificar y evaluar. Relevancia: coherentes con la estrategia global de la empresa.  ")
             figcaption.mt-2.mb-4 SENA, 2025.
 
     .bg-color-3.p-4(data-aos="fade-left").mb-5
@@ -176,7 +176,7 @@
               .col-md-8.order-2
                 h4 Específicos 
                 p Los objetivos deben estar claramente definidos y expresados con precisión. Esto evita ambigüedades y facilita que todos los involucrados comprendan el propósito y la dirección estratégica. 
-                h3 Ejemplo
+                h4 Ejemplo
                 p Aguacatex define con claridad los siguientes objetivos específicos:
                 ul.lista-ul--color.lista-ul--separador.ms-3
                   li.d-flex
@@ -184,7 +184,7 @@
                     p.mb-0 Penetrar el mercado estadounidense con una cuota inicial del 5 % en el segmento de aguacate Hass en dos años.
                   li.d-flex
                     i.fas.fa-circle.bg-color-5
-                    p Posicionar su marca como un producto premium basado en calidad y frescura.
+                    p Posicionar su marca como un producto <em>premium</em> basado en calidad y frescura.
 
               .col-md-6.col-lg-4.order-1.mb-4.mb-md-0
                 figure
@@ -194,7 +194,7 @@
               .col-md-8.order-2
                 h4 Medibles
                 p Es indispensable que los objetivos incluyan indicadores que permitan evaluar avances o resultados de forma objetiva. Esto facilita el seguimiento y la toma de decisiones basadas en evidencia. 
-                h3 Ejemplo
+                h4 Ejemplo
                 p Aguacatex establece metas cuantificables:
                 ul.lista-ul--color.lista-ul--separador.ms-3
                   li.d-flex
@@ -212,7 +212,7 @@
               .col-md-8.order-2
                 h4 Alcanzables
                 p Los objetivos deben ser realistas, considerando los recursos, capacidades y entorno actual de la empresa. Proyectar metas inalcanzables puede generar frustración y desperdicio de recursos. 
-                h3 Ejemplo
+                h4 Ejemplo
                 p Aguacatex fundamenta sus metas en su experiencia exportadora y en el crecimiento de la demanda del aguacate Hass, lo que hace factibles sus proyecciones de expansión y rentabilidad.
 
               .col-md-6.col-lg-4.order-1.mb-4.mb-md-0
@@ -223,8 +223,8 @@
               .col-md-8.order-2
                 h4 Relevantes
                 p Todo objetivo debe aportar valor estratégico a la empresa y estar alineado con su visión global. La relevancia asegura que el esfuerzo se enfoque en aspectos clave para el éxito internacional.
-                h3 Ejemplo
-                p la investigación de mercados asiáticos y la exploración de productos derivados del aguacate se alinean con la estrategia de diversificación de Aguacatex, fortaleciendo su posición competitiva.
+                h4 Ejemplo
+                p La investigación de mercados asiáticos y la exploración de productos derivados del aguacate se alinean con la estrategia de diversificación de Aguacatex, fortaleciendo su posición competitiva.
 
               .col-md-6.col-lg-4.order-1.mb-4.mb-md-0
                 figure
@@ -234,7 +234,7 @@
               .col-md-8.order-2
                 h4 Temporales
                 p Los objetivos deben tener un marco temporal claro. Establecer un plazo permite planificar acciones, asignar recursos eficientemente y evaluar los logros en el tiempo estimado.
-                h3 Ejemplo
+                h4 Ejemplo
                 p Aguacatex proyecta alcanzar el 5 % del mercado estadounidense en dos años, lo que marca un horizonte claro para implementar y revisar su estrategia de entrada.
 
               .col-md-6.col-lg-4.order-1.mb-4.mb-md-0

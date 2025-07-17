@@ -60,7 +60,7 @@
 
                 .col
                   h3 Dirección estratégica clara
-                  p Define una ruta clara para cumplir con las metas comerciales, coordinando las actividades de marketing con la visión corporativa.
+                  p Define una ruta clara para cumplir con las metas comerciales, coordinando las actividades de <em>marketing</em> con la visión corporativa.
               .row
                 .col-auto.order-2
                   figure
@@ -152,7 +152,7 @@
             p Es una etapa clave que establece metas específicas, medibles y alcanzables dentro del contexto del mercadeo internacional. Esta tarea implica plantear resultados concretos en términos de participación de mercado, ventas, posicionamiento o penetración geográfica, asegurando su coherencia con la estrategia global de la empresa y su viabilidad operativa.
           
           div(titulo="Estrategias de mercadeo")
-            p Consisten en la selección de mercados, el diseño del posicionamiento y la formulación de acciones dentro de la mezcla de marketing (producto, precio, plaza y promoción) para alcanzar los objetivos planteados. Su desarrollo requiere integrar la información obtenida del análisis interno y externo, y formular tácticas personalizadas para cada variable, respondiendo a las oportunidades detectadas y a las características del público objetivo.
+            p Consisten en la selección de mercados, el diseño del posicionamiento y la formulación de acciones dentro de la mezcla de <em>marketing</em> (producto, precio, plaza y promoción) para alcanzar los objetivos planteados. Su desarrollo requiere integrar la información obtenida del análisis interno y externo, y formular tácticas personalizadas para cada variable, respondiendo a las oportunidades detectadas y a las características del público objetivo.
           div(titulo="Plan de acción")
             p Detalla las actividades específicas que permitirán implementar las estrategias de mercadeo, asignando responsables, recursos y tiempos a cada tarea. Para elaborarlo, se construye una hoja de ruta operativa con una secuencia lógica de actividades, garantizando que cada paso esté alineado con los objetivos del plan y se puedan monitorear los avances de forma ordenada.
           
@@ -208,7 +208,7 @@
               img(src="@/assets/curso/tema3/19.png", alt="alt")
           .crd_hover_txt--body.bg-color-9
             h4.mb-3.text-center Tecnológicos
-            p.mb-0 Incluyen plataformas digitales, CRM y herramientas de análisis de mercado. Son aplicables mediante software especializado que permite gestionar relaciones internacionales, segmentar clientes, automatizar procesos y tomar decisiones informadas a partir de datos relevantes, mejorando así la competitividad global empresarial.
+            p.mb-0 Incluyen plataformas digitales, CRM y herramientas de análisis de mercado. Son aplicables mediante <em>software</em> especializado que permite gestionar relaciones internacionales, segmentar clientes, automatizar procesos y tomar decisiones informadas a partir de datos relevantes, mejorando así la competitividad global empresarial.
       .col-xl-3.col-lg-6.col-md-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -259,10 +259,10 @@
                 p Establecimiento de metas específicas, claras y medibles que guían todas las actividades del plan y se alinean con la estrategia global de la empresa.
               .tarjeta.bg-fondo-2.p-5(titulo="Formulación de estrategias")
                 h4 Formulación de estrategias
-                p Selección de mercados meta, definición del posicionamiento deseado y diseño de la mezcla de marketing (producto, precio, plaza y promoción) adecuada.
+                p Selección de mercados meta, definición del posicionamiento deseado y diseño de la mezcla de <em>marketing</em> (producto, precio, plaza y promoción) adecuada.
               .tarjeta.bg-fondo-2.p-5(titulo="Implementación")
                 h4 Implementación
-                p Ejecución coordinada de las acciones de marketing, gestión logística y ventas para llevar a cabo las estrategias definidas.
+                p Ejecución coordinada de las acciones de <em>marketing</em>, gestión logística y ventas para llevar a cabo las estrategias definidas.
               .tarjeta.bg-fondo-2.p-5(titulo="Control y evaluación")
                 h4 Control y evaluación
                 p Medición de resultados a través de indicadores clave de desempeño, análisis de desviaciones y aplicación de correcciones para optimizar el desempeño.
@@ -301,7 +301,7 @@
             
             .tabla-a.color-acento-botones
               table
-                caption Fuente: Kotler, P. & Keller, K. (2016).
+                caption <b>Fuente</b>: Kotler, P. & Keller, K. (2016).
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Herramienta
@@ -321,7 +321,7 @@
                     td Examina la competencia y estructura del mercado.
                     td Investigar la competencia, proveedores, clientes y posibles entrantes para evaluar la intensidad competitiva.
                   tr
-                    td Benchmarking
+                    td <em>Benchmarking</em>
                     td Compara prácticas y desempeño con referentes del sector.
                     td Identificar líderes del sector, analizar sus procesos y resultados para adaptar mejores prácticas.
                   tr
@@ -344,7 +344,7 @@
             
             .tabla-a.color-acento-botones.mb-5 
               table
-                caption Fuente: Lamb, C., Hair, J., & McDaniel, C. (2019)
+                caption <b>Fuente</b>: Lamb, C., Hair, J., & McDaniel, C. (2019).
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Herramienta
@@ -388,7 +388,7 @@
             
             .tabla-a.color-acento-botones.mb-5 
               table
-                caption Fuente: Westwood, J. (2013)
+                caption <b>Fuente</b>: Westwood, J. (2013).
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Herramienta
@@ -396,23 +396,23 @@
                     th.bg-color-10.text-white Implementación
                 tbody.bg-color-white
                   tr
-                    td Matriz de la mezcla de marketing (4P)
+                    td Matriz de la mezcla de <em>marketing</em> (4P)
                     td Organiza decisiones sobre producto, precio, plaza (distribución) y promoción.
-                    td Definir y ajustar cada variable del marketing mix según las necesidades del mercado y los objetivos planteados.
+                    td Definir y ajustar cada variable del <em>marketing mix</em> según las necesidades del mercado y los objetivos planteados.
                   tr
                     td Cronograma de Gantt
                     td Programa actividades con tiempos y responsables.
                     td Elaborar un calendario detallado con fechas límite y responsables para cada acción del plan.
                   tr
-                    td Presupuesto de marketing
+                    td Presupuesto de <em>marketing</em>
                     td Asigna recursos financieros por campaña o canal.
                     td Distribuir el presupuesto total en partidas específicas para cada actividad o medio de promoción.
                   tr
                     td KPIs (Indicadores clave de desempeño)
-                    td Mide el rendimiento de acciones de marketing.
+                    td Mide el rendimiento de acciones de <em>marketing</em>.
                     td Establecer métricas cuantificables para evaluar la efectividad de las acciones y tomar decisiones basadas en datos.
                   tr
-                    td Cuadro de mando integral (Balanced Scorecard)
+                    td Cuadro de mando integral (<em>Balanced Scorecard</em>)
                     td Monitorea desempeño estratégico en diferentes áreas.
                     td Integrar indicadores financieros y no financieros para un seguimiento completo de los resultados.
       
@@ -441,7 +441,7 @@
     #t_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.6	Ejemplo general del plan
     
-    p.mb-5 El presente ejemplo desarrolla un plan de mercadeo internacional con enfoque estratégico para la exportación de productos agrícolas, en este caso, el aguacate Hass. La empresa seleccionada para ilustrar este ejercicio es Aguacatex S.A.S, una organización colombiana que proyecta consolidarse como un actor competitivo en el exigente mercado de los Estados Unidos de América.
+    p.mb-5 El presente ejemplo desarrolla un plan de mercadeo internacional con enfoque estratégico para la exportación de productos agrícolas, en este caso, el aguacate Hass. La empresa seleccionada para ilustrar este ejercicio es Aguacatex S.A.S., una organización colombiana que proyecta consolidarse como un actor competitivo en el exigente mercado de los Estados Unidos de América.
 
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -451,14 +451,14 @@
         p(data-aos="fa de-left") Este plan integra todos los componentes fundamentales que debe contemplar una estrategia de internacionalización efectiva, tales como el diagnóstico del entorno, la definición de objetivos, la propuesta de valor, las estrategias de entrada y los mecanismos de evaluación y control. Su estructura es especialmente útil como modelo de referencia para empresas agroindustriales interesadas en expandirse hacia mercados internacionales, cumpliendo con estándares de calidad, sostenibilidad y competitividad.
     
         .cajon.color-primario.p-4.mb-4.bg-color-1(data-aos="fade-left")
-          p.mb-0 En este contexto, Aguacatex S.A.S busca posicionarse como exportador líder de aguacate Hass premium en EE. UU., aprovechando la creciente demanda de alimentos saludables. El plan contempla acciones orientadas al cumplimiento de normativas regulatorias, la creación de canales de distribución en estados estratégicos como Florida, Texas y California, y el posicionamiento de la marca a través de campañas digitales, ferias internacionales y alianzas con actores clave del sector.
+          p.mb-0 En este contexto, Aguacatex S.A.S. busca posicionarse como exportador líder de aguacate Hass <em>premium</em> en EE. UU., aprovechando la creciente demanda de alimentos saludables. El plan contempla acciones orientadas al cumplimiento de normativas regulatorias, la creación de canales de distribución en estados estratégicos como Florida, Texas y California, y el posicionamiento de la marca a través de campañas digitales, ferias internacionales y alianzas con actores clave del sector.
     
     .bg-full-width.bg-color-2
       .p-4.p-md-5
         div.bg-color-sintesis.p-4.position-relative.mb-5 
           .row.justify-content-center.align-items-center
             .col-lg-9(data-aos="fade-left").order-2
-              p.mb-0 A continuación, se detallan los componentes esenciales de este plan, que tiene como meta principal lograr un incremento del 25% en las ventas internacionales de Aguacatex S.A.S durante el primer año de ejecución.
+              p.mb-0 A continuación, se detallan los componentes esenciales de este plan, que tiene como meta principal lograr un incremento del 25% en las ventas internacionales de Aguacatex S.A.S. durante el primer año de ejecución.
             .col-lg-3(data-aos="zoom-in").order-1.mb-3.mb-lg-0
               img.img-fluid(src='@/assets/curso/tema3/30.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
         
@@ -467,7 +467,7 @@
            ul.lista-ul--color.ms-3
               li.d-flex
                 i.fas.fa-circle.bg-color-5
-                p.mb-0 <b>Empresa</b>: Aguacatex S.A.S
+                p.mb-0 <b>Empresa</b>: Aguacatex S.A.S.
               li.d-flex
                 i.fas.fa-circle.bg-color-5
                 p.mb-0 <b>Producto</b>: Aguacate Hass
@@ -475,7 +475,7 @@
                 i.fas.fa-circle.bg-color-5
                 p.mb-0 <b>Destino</b>: Estados Unidos de América
           div(titulo="Resumen Ejecutivo")
-            p Aguacatex S.A.S busca posicionarse como exportador líder de aguacate Hass premium en EE. UU., aprovechando la creciente demanda de alimentos saludables. El plan busca cumplir normativas regulatorias, establecer canales de distribución en Florida, Texas y California, y posicionar la marca a través de campañas digitales, ferias internacionales y alianzas estratégicas. Se proyecta un incremento del 25 % en ventas internacionales en el primer año.
+            p Aguacatex S.A.S. busca posicionarse como exportador líder de aguacate Hass <em>premium</em> en EE. UU., aprovechando la creciente demanda de alimentos saludables. El plan busca cumplir normativas regulatorias, establecer canales de distribución en Florida, Texas y California, y posicionar la marca a través de campañas digitales, ferias internacionales y alianzas estratégicas. Se proyecta un incremento del 25 % en ventas internacionales en el primer año.
           div(titulo="Objetivos del Plan")
             .row
               .col-lg-4
@@ -483,7 +483,7 @@
                   img(src="@/assets/curso/tema3/30-1.png", data-aos="zoom-in")
               .col-lg-8
                 h5 Objetivo general:
-                p Posicionar a Aguacatex S.A.S como un exportador confiable y competitivo de aguacate Hass en Estados Unidos, logrando un aumento del 25 % en las ventas internacionales durante el primer año.
+                p Posicionar a Aguacatex S.A.S. como un exportador confiable y competitivo de aguacate Hass en Estados Unidos, logrando un aumento del 25 % en las ventas internacionales durante el primer año.
                 h5 Objetivos específicos:
                 ul.lista-ul--color.ms-3
                   li.d-flex
@@ -527,7 +527,7 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Alta demanda en USA por alimentos saludables
+                p.mb-0 Alta demanda en los Estados Unidos de América por alimentos saludables
               li.mb-0.d-flex
                 i.fas.fa-circle-check
                 p.mb-0 Tratados de libre comercio con EE. UU. (TLC)
@@ -557,7 +557,7 @@
                 i.fas.fa-circle-check
                 p.mb-0 Fluctuaciones del tipo de cambio
     
-    p.mb-5 Con el fin de comprender el contexto macroambiental que influye en la internacionalización de Aguacatex S.A.S, se aplicó la matriz PESTEL, enfocada específicamente en el mercado de los Estados Unidos. Este análisis permite identificar los factores políticos, económicos, sociales, tecnológicos, ecológicos y legales que pueden afectar positiva o negativamente el ingreso y posicionamiento del aguacate Hass en este destino. La matriz PESTEL proporciona una visión integral de las condiciones externas que rodean al entorno de exportación, facilitando la anticipación de riesgos y la adaptación estratégica frente a las exigencias y tendencias del mercado estadounidense.
+    p.mb-5 Con el fin de comprender el contexto macroambiental que influye en la internacionalización de Aguacatex S.A.S., se aplicó la matriz PESTEL, enfocada específicamente en el mercado de los Estados Unidos. Este análisis permite identificar los factores políticos, económicos, sociales, tecnológicos, ecológicos y legales que pueden afectar positiva o negativamente el ingreso y posicionamiento del aguacate Hass en este destino. La matriz PESTEL proporciona una visión integral de las condiciones externas que rodean al entorno de exportación, facilitando la anticipación de riesgos y la adaptación estratégica frente a las exigencias y tendencias del mercado estadounidense.
 
     .row.justify-content-center.mb-3
       .col-xl-3.col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
@@ -607,7 +607,7 @@
         div.bg-color-sintesis.p-4.position-relative.mb-5 
           .row.justify-content-center.align-items-center
             .col-lg-9(data-aos="fade-left").order-2
-              p.mb-0 Como parte del enfoque estratégico del plan de mercadeo internacional, se incorporó un ejercicio de benchmarking con el propósito de identificar buenas prácticas y modelos exitosos de empresas líderes en la exportación de aguacate. Esta comparación permite extraer aprendizajes clave que pueden ser adaptados por Aguacatex S.A.S para mejorar su competitividad, eficiencia operativa y posicionamiento en el mercado estadounidense. A continuación, se presenta una matriz con referentes internacionales que destacan por sus estrategias logísticas, certificaciones y enfoques de sostenibilidad, los cuales ofrecen valiosas lecciones aplicables al caso colombiano.
+              p.mb-0 Como parte del enfoque estratégico del plan de mercadeo internacional, se incorporó un ejercicio de <em>Benchmarking</em> con el propósito de identificar buenas prácticas y modelos exitosos de empresas líderes en la exportación de aguacate. Esta comparación permite extraer aprendizajes clave que pueden ser adaptados por Aguacatex S.A.S. para mejorar su competitividad, eficiencia operativa y posicionamiento en el mercado estadounidense. A continuación, se presenta una matriz con referentes internacionales que destacan por sus estrategias logísticas, certificaciones y enfoques de sostenibilidad, los cuales ofrecen valiosas lecciones aplicables al caso colombiano.
             .col-lg-3(data-aos="zoom-in").order-1.mb-3.mb-lg-0
               img.img-fluid(src='@/assets/curso/tema3/38.png', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
 
@@ -619,7 +619,7 @@
         
         .tabla-a.color-acento-botones.mb-5 
           table
-            caption Fuente: SENA (2025)
+            caption <b>Fuente</b>: SENA (2025).
             thead.bg-color-11
               tr
                 th.bg-color-10.text-white Empresa Referente
@@ -628,11 +628,11 @@
             tbody.bg-color-white
               tr
                 td Mission Produce (EE. UU.)
-                td Alianzas con retailers y trazabilidad total
+                td Alianzas con <em>retailers</em> y trazabilidad total
                 td Invertir en tecnología de trazabilidad
               tr
                 td Camposol (Perú)
-                td Certificaciones internacionales y marketing sostenible
+                td Certificaciones internacionales y <em>marketing</em> sostenible
                 td Obtener sellos como Global G.A.P. y FairTrade
               tr
                 td AvoMex (México)
@@ -645,7 +645,7 @@
 
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10
-            p.banner-text Dando continuidad al análisis estratégico, se desarrolla la segmentación del mercado objetivo en Estados Unidos, elemento clave para definir con precisión las acciones comerciales y de comunicación de Aguacatex S.A.S. Esta segmentación permite identificar los perfiles de consumidores con mayor potencial de compra, teniendo en cuenta variables geográficas, demográficas, psicográficas y conductuales. El enfoque se orienta hacia estados con alta concentración de consumidores latinos y tendencia al consumo saludable, así como hacia segmentos que valoran la sostenibilidad, la calidad premium y el estilo de vida saludable. A continuación, se detalla la segmentación del mercado meta para optimizar la penetración comercial:
+            p.banner-text Dando continuidad al análisis estratégico, se desarrolla la segmentación del mercado objetivo en Estados Unidos, elemento clave para definir con precisión las acciones comerciales y de comunicación de Aguacatex S.A.S. Esta segmentación permite identificar los perfiles de consumidores con mayor potencial de compra, teniendo en cuenta variables geográficas, demográficas, psicográficas y conductuales. El enfoque se orienta hacia estados con alta concentración de consumidores latinos y tendencia al consumo saludable, así como hacia segmentos que valoran la sostenibilidad, la calidad <em>premium</em> y el estilo de vida saludable. A continuación, se detalla la segmentación del mercado meta para optimizar la penetración comercial:
 
         .row.justify-content-center
           .col-lg-8
@@ -661,7 +661,7 @@
         p(data-aos="fa de-left") Con base en el análisis del entorno, la competencia y el perfil del consumidor objetivo, se formula la propuesta de valor de Aguacatex S.A.S., elemento central para diferenciar la marca en el mercado estadounidense. Esta propuesta resume los atributos clave que definen la oferta de la empresa, alineando la calidad del producto con las expectativas del cliente internacional. Enfatiza aspectos como la frescura, la sostenibilidad, el sabor superior y la conexión directa con el productor, factores que responden a las tendencias de consumo actuales y fortalecen el posicionamiento de la marca. A continuación, se presenta la propuesta de valor diseñada para el mercado objetivo.
     
         .cajon.color-primario.p-4.mb-4.bg-color-1(data-aos="fade-left")
-          p.mb-0 <b>Propuesta de valor</b>: "Aguacatex: Aguacates Hass Premium de origen colombiano, frescos, sostenibles y con sabor superior, directamente del productor al consumidor estadounidense."
+          p.mb-0 <b>Propuesta de valor</b>: "Aguacatex: Aguacates Hass <em>premium</em> de origen colombiano, frescos, sostenibles y con sabor superior, directamente del productor al consumidor estadounidense."
 
     div.d-flex.justify-content-center.mb-5
       div.bg-color-7.pst.p-4.tarjeta
@@ -707,7 +707,7 @@
 
     .bg-full-width.bg-color-2
       .p-4.p-md-5
-        p.mb-5 A continuación, se presentan el plan de acción, el presupuesto y los mecanismos de control y evaluación que consolidan la hoja de ruta para la entrada de Aguacatex S.A.S. al mercado estadounidense. Estas herramientas permiten operacionalizar las decisiones estratégicas formuladas a partir del análisis DOFA, PESTEL, benchmarking y segmentación de mercado. De esta manera, se garantiza una implementación estructurada, medible y orientada a resultados, asegurando que cada actividad esté alineada con los objetivos de posicionamiento, crecimiento y sostenibilidad de la empresa en el contexto internacional.
+        p.mb-5 A continuación, se presentan el plan de acción, el presupuesto y los mecanismos de control y evaluación que consolidan la hoja de ruta para la entrada de Aguacatex S.A.S. al mercado estadounidense. Estas herramientas permiten operacionalizar las decisiones estratégicas formuladas a partir del análisis DOFA, PESTEL, <em>Benchmarking</em> y segmentación de mercado. De esta manera, se garantiza una implementación estructurada, medible y orientada a resultados, asegurando que cada actividad esté alineada con los objetivos de posicionamiento, crecimiento y sostenibilidad de la empresa en el contexto internacional.
 
         .row.justify-content-center.mb-5 
           .col-xl-8
@@ -717,7 +717,7 @@
             
             .tabla-a.color-acento-botones.mb-5 
               table
-                caption Fuente: SENA (2025)
+                caption <b>Fuente</b>: SENA (2025).
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Actividad
@@ -755,7 +755,7 @@
                     td 
                     td 
                   tr
-                    td Campaña promocional y marketing
+                    td Campaña promocional y <em>marketing</em>
                     td 
                     td 
                     td 
@@ -768,7 +768,7 @@
             
             .tabla-a.color-acento-botones
               table
-                caption Fuente: SENA (2025)
+                caption <b>Fuente</b>: SENA (2025).
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Recurso
@@ -784,7 +784,7 @@
                     td Transporte refrigerado y aduanas
                     td $25,000
                   tr
-                    td Marketing digital
+                    td <em>Marketing</em> digital
                     td Campañas dirigidas y diseño web
                     td $10,000
                   tr
@@ -847,7 +847,7 @@
     
     .tabla-a.color-acento-botones.mb-5
       table
-        caption Fuente: SENA (2025)
+        caption <b>Fuente</b>: SENA (2025).
         thead.bg-color-11
           tr
             th.bg-color-10.text-white Indicador
@@ -882,7 +882,7 @@
             td Alcance en redes sociales
             td +30 % seguidores y +15 % interacción
             td Mensual
-            td Marketing digital
+            td <em>Marketing</em> digital
             td Estadísticas de redes sociales
             td Ajustar contenido y campañas
           tr
@@ -901,7 +901,7 @@
     
     .tabla-a.color-acento-botones.mb-5
       table
-        caption Fuente: SENA (2025)
+        caption <b>Fuente</b>: SENA (2025).
         thead.bg-color-11
           tr
             th.bg-color-10.text-white Actividad
@@ -933,7 +933,7 @@
             td Diseño aprobado
             td Mes 3
             td Mes 6
-            td Equipo de marketing
+            td Equipo de <em>marketing</em>
             td Pendiente
             td Se espera diseño final
           tr
@@ -953,11 +953,11 @@
             td No iniciado
             td Planeado para Mes 5
           tr
-            td Campaña promocional y marketing
+            td Campaña promocional y <em>marketing</em>
             td Alcance y participación
             td Mes 5
             td Mes 8
-            td Marketing digital
+            td <em>Marketing</em> digital
             td No iniciado
             td Campaña digital planificada
     
@@ -969,7 +969,7 @@
     
     .tabla-a.color-acento-botones.mb-5
       table
-        caption Fuente: SENA (2025)
+        caption <b>Fuente</b>: SENA (2025).
         thead.bg-color-11
           tr
             th.bg-color-10.text-white Resultado esperado
@@ -985,12 +985,12 @@
             td Reconocimiento de marca (%)
             td Encuestas de consumidores
             td Semestral
-            td Marketing
+            td <em>Marketing</em>
             td Medio
             td Incrementar publicidad
           tr
             td Cumplimiento normativo
-            td 100% de cumplimiento FDA/APHS
+            td 100 % de cumplimiento FDA/APHS
             td Auditorías y reportes regulatorios
             td Anual
             td Calidad y legal
@@ -998,7 +998,7 @@
             td Mantener vigilancia
           tr
             td Incremento de ventas
-            td 25% de crecimiento en ventas
+            td 25 % de crecimiento en ventas
             td Reportes de ventas
             td Trimestral
             td Dirección comercial
@@ -1021,7 +1021,7 @@
             td Medio
             td Optimizar rutas y costos
 
-    p.mb-5 El plan de mercadeo internacional diseñado para Aguacatex S.A.S es altamente aceptable y pertinente, dado que responde de manera estratégica a las condiciones actuales del mercado estadounidense y a las capacidades internas de la empresa. La identificación clara de fortalezas, oportunidades, debilidades y amenazas, junto con un análisis detallado del entorno político, económico, social, tecnológico, ecológico y legal, asegura que las acciones propuestas estén alineadas con las exigencias regulatorias y las tendencias de consumo.
+    p.mb-5 El plan de mercadeo internacional diseñado para Aguacatex S.A.S. es altamente aceptable y pertinente, dado que responde de manera estratégica a las condiciones actuales del mercado estadounidense y a las capacidades internas de la empresa. La identificación clara de fortalezas, oportunidades, debilidades y amenazas, junto con un análisis detallado del entorno político, económico, social, tecnológico, ecológico y legal, asegura que las acciones propuestas estén alineadas con las exigencias regulatorias y las tendencias de consumo.
 
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0

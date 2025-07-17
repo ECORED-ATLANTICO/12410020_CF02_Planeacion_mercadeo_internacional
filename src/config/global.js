@@ -172,21 +172,21 @@ export default {
     {
       tema: 'Objetivos de mercadeo internacional',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Planeamiento de objetivos bajo el método SMART [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <em>Planeamiento de objetivos bajo el método SMART</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=gY607xwUgpw',
     },
     {
       tema: 'Estrategias de mercadeo internacional',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Estrategia de ventas [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <em>Estrategia de ventas</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=mwk2MnDXtPI',
     },
     {
       tema: 'Estrategias de mercadeo internacional',
       referencia:
-        'Castellanos, C. (2020). Estrategias efectivas para conquistar mercados internacionales [Video]. YouTube. ',
+        'Castellanos, C. (2020). <em>Estrategias efectivas para conquistar mercados internacionales</em> [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=G1qPNcwMpu0',
     },
@@ -282,48 +282,48 @@ export default {
   referencias: [
     {
       referencia:
-        'Chiavenato, I. (2006). Introducción a la teoría general de la administración (7.ª ed.). McGraw-Hill Interamericana. Recuperado de una fuente con licencia abierta: ',
+        'Chiavenato, I. (2006). <em>Introducción a la teoría general de la administración (7.ª ed.). McGraw-Hill Interamericana.</em> Recuperado de una fuente con licencia abierta: ',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/15525/mod_resource/content/0/Chiavenato%20Idalverto.%20Introducci%C3%B3n%20a%20la%20teor%C3%ADa%20general%20de%20la%20Administraci%C3%B3n.pdf',
     },
     {
       referencia:
-        'David, F. R., David, F. R., & David, M. E. (2020). Strategic management: A competitive advantage approach, concepts and cases (17.ª ed.). Pearson. Disponible en PDF: f',
+        'David, F. R., David, F. R., & David, M. E. (2020). <em>Strategic management: A competitive advantage approach, concepts and cases (17.ª ed.). Pearson.</em> Disponible en PDF: f',
       link: 'https://pracownik.kul.pl/files/12439/public/3_David.pd',
     },
     {
       referencia:
-        'Kotler, P., & Armstrong, G. (2008). Fundamentos de marketing (8.ª ed.). Pearson Educación México. Recuperado de una versión en español: Fundamentos del Marketing, por Kotler & Armstrong. ',
+        'Kotler, P., & Armstrong, G. (2008). <em>Fundamentos de marketing (8.ª ed.). Pearson Educación México.</em>, Recuperado de una versión en español: Fundamentos del marketing por Kotler & Armstrong. ',
       link:
         'https://es.scribd.com/document/472306508/Fundamentos-de-marketing-philip-kotler-pdf-download?utm_source=chatgpt.com',
     },
     {
       referencia:
-        'Kotler, P., & Keller, K. L. (2006). Dirección de marketing (15.ª ed.). Pearson. Disponible en versión PDF en español: Dirección de Marketing, Kotler & Keller. ',
+        'Kotler, P., & Keller, K. L. (2006). <em>Dirección de marketing (15.ª ed.). Pearson.</em> <Disponible en versión PDF en español: Dirección de <em>marketing</em>, Kotler & Keller. ',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/14585/mod_resource/content/1/libro%20direccion-de-marketing%28kotler-keller_2006%29.pdf?utm_source=chatgpt.com',
     },
     {
       referencia:
-        'Lamb, C. W., Hair, J. F., & McDaniel, C. (2012). Marketing (11.ª ed.). Cengage Learning. Recuperado de versión en español: Marketing (pdf). ',
+        'Lamb, C. W., Hair, J. F., & McDaniel, C. (2012). <em>marketing (11.ª ed.). Cengage Learning.</em> Recuperado de versión en español: <em>marketing</em> (pdf). ',
       link:
         'https://fir.bsu.by/images/departments/ee/ee-materials/ee-materials/drozd/drazd_Lamb.Marketing%2011%20edition.pdf?utm_source=chatgpt.com',
     },
     {
       referencia:
-        'Porter, M. E. (2008). Las cinco fuerzas competitivas que dan forma a la estrategia. Harvard Business Review, 86(1), 78-93. Disponible en español: Las fuerzas competitivas de Porter. ',
+        'Porter, M. E. (2008). <em>Las cinco fuerzas competitivas que dan forma a la estrategia. Harvard Business Review, 86(1), 78-93.</em> Disponible en español: Las fuerzas competitivas de Porter. ',
       link:
         'https://relayn.redesla.la/biblioteca/22.003/T1-C09.pdf?utm_source=chatgpt.com',
     },
     {
       referencia:
-        'ProColombia. (2023). Así se exportan alimentos a EE. UU. Recuperado de ',
+        'ProColombia. (2023). <em>Así se exportan alimentos a EE. UU.</em> Recuperado de ',
       link:
         'https://procolombia.co/publicaciones/asi-se-exportan-alimentos-ee-uu',
     },
     {
       referencia:
-        'ProColombia. (2025). Publicaciones y estudios de mercado. Recuperado de ',
+        'ProColombia. (2025). <em>Publicaciones y estudios de mercado.</em> Recuperado de ',
       link: 'https://www.procolombia.co',
     },
   ],

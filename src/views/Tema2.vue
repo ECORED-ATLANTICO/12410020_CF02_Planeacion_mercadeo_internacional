@@ -61,7 +61,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/5.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La clasificación de las estrategias permite comprender cómo las organizaciones adaptan sus enfoques comerciales a diferentes contextos globales, con el fin de alcanzar sus objetivos en mercados internacionales. La siguiente tabla presenta los principales tipos de estrategias de mercadeo internacional, sus características distintivas y ejemplos de empresas que las han implementado exitosamente.
+            p.mb-0 La clasificación de las estrategias permite comprender cómo las organizaciones adaptan sus enfoques comerciales a diferentes contextos globales, con el fin de alcanzar sus objetivos en mercados internacionales. Las siguientes tarjetas informativas presenta los principales tipos de estrategias de mercadeo internacional, sus características distintivas y ejemplos de empresas que las han implementado exitosamente.
         
         .row.justify-content-center.align-items-center.z-2
           .col-8.col-sm-6.col-lg-3.order-lg-2
@@ -76,7 +76,7 @@
                 p Se basa en ajustar el producto y las acciones de <em>marketing</em> a las condiciones culturales, normativas o de consumo del país destino. Por ejemplo, Aguacatex modifica el diseño del empaque para cumplir con normas de la FDA en Estados Unidos.
               
               div(titulo="Estrategia de diferenciación")
-                p Busca destacar atributos únicos del producto para posicionarse en nichos específicos o frente a la competencia. Un ejemplo es Aguacatex, que promueve su aguacate orgánico certificado como una opción premium  en el mercado internacional.
+                p Busca destacar atributos únicos del producto para posicionarse en nichos específicos o frente a la competencia. Un ejemplo es Aguacatex, que promueve su aguacate orgánico certificado como una opción <em>premium</em>  en el mercado internacional.
               div(titulo="Estrategia de diversificación")
                 p Consiste en desarrollar nuevos productos o servicios para distintos segmentos o mercados. Por ejemplo, Aguacatex crea aceite de aguacate dirigido al sector cosmético en mercados asiáticos en expansión.
               
