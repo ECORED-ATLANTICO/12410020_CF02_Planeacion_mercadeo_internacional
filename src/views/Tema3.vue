@@ -301,7 +301,7 @@
             
             .tabla-a.color-acento-botones
               table
-                caption <b>Fuente</b>: Kotler, P. & Keller, K. (2016).
+                caption <b>Fuente</b>: Kotler, P. & Keller, K. 2016.
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Herramienta
@@ -344,7 +344,7 @@
             
             .tabla-a.color-acento-botones.mb-5 
               table
-                caption <b>Fuente</b>: Lamb, C., Hair, J., & McDaniel, C. (2019).
+                caption <b>Fuente</b>: Lamb, C., Hair, J., & McDaniel, C. 2019.
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Herramienta
@@ -364,7 +364,7 @@
                     td Determina estrategias de crecimiento (penetración, desarrollo de producto, de mercado y diversificación).
                     td Evaluar opciones estratégicas para expandir la oferta o mercados actuales o nuevos.
                   tr
-                    td Buyer persona
+                    td <em>Buyer persona</em>
                     td Crea perfiles detallados de clientes ideales.
                     td Realizar entrevistas y análisis de clientes actuales para construir representaciones realistas.
                   tr
@@ -388,7 +388,7 @@
             
             .tabla-a.color-acento-botones.mb-5 
               table
-                caption <b>Fuente</b>: Westwood, J. (2013).
+                caption <b>Fuente</b>: Westwood, J. 2013.
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Herramienta
@@ -458,12 +458,12 @@
         div.bg-color-sintesis.p-4.position-relative.mb-5 
           .row.justify-content-center.align-items-center
             .col-lg-9(data-aos="fade-left").order-2
-              p.mb-0 A continuación, se detallan los componentes esenciales de este plan, que tiene como meta principal lograr un incremento del 25% en las ventas internacionales de Aguacatex S.A.S. durante el primer año de ejecución.
+              p.mb-0 A continuación, se detallan los componentes esenciales de este plan, que tiene como meta principal lograr un incremento del 25 % en las ventas internacionales de Aguacatex S.A.S. durante el primer año de ejecución.
             .col-lg-3(data-aos="zoom-in").order-1.mb-3.mb-lg-0
               img.img-fluid(src='@/assets/curso/tema3/30.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
         
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordion-mercado").mb-5
-          div(titulo="Información General del Proyecto ")
+          div(titulo="Información general del proyecto ")
            ul.lista-ul--color.ms-3
               li.d-flex
                 i.fas.fa-circle.bg-color-5
@@ -474,9 +474,9 @@
               li.d-flex
                 i.fas.fa-circle.bg-color-5
                 p.mb-0 <b>Destino</b>: Estados Unidos de América
-          div(titulo="Resumen Ejecutivo")
+          div(titulo="Resumen ejecutivo")
             p Aguacatex S.A.S. busca posicionarse como exportador líder de aguacate Hass <em>premium</em> en EE. UU., aprovechando la creciente demanda de alimentos saludables. El plan busca cumplir normativas regulatorias, establecer canales de distribución en Florida, Texas y California, y posicionar la marca a través de campañas digitales, ferias internacionales y alianzas estratégicas. Se proyecta un incremento del 25 % en ventas internacionales en el primer año.
-          div(titulo="Objetivos del Plan")
+          div(titulo="Objetivos del plan")
             .row
               .col-lg-4
                 figure
@@ -516,46 +516,46 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Alta calidad del producto (aguacate Hass <em>premium</em>)
+                p.mb-0 Alta calidad del producto (aguacate Hass <em>premium</em>).
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Certificaciones fitosanitarias y sostenibles
+                p.mb-0 Certificaciones fitosanitarias y sostenibles.
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Ubicación geográfica favorable para exportación
+                p.mb-0 Ubicación geográfica favorable para exportación.
           div(numero="2" titulo="Oportunidades") 
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Alta demanda en los Estados Unidos de América por alimentos saludables
+                p.mb-0 Alta demanda en los Estados Unidos de América por alimentos saludables.
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Tratados de libre comercio con EE. UU. (TLC)
+                p.mb-0 Tratados de libre comercio con EE. UU. (TLC).
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Tendencia creciente de productos orgánicos
+                p.mb-0 Tendencia creciente de productos orgánicos.
           div(numero="3" titulo="Debilidades") 
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Capacidad limitada de producción estacional
+                p.mb-0 Capacidad limitada de producción estacional.
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Poca experiencia previa en exportación directa
+                p.mb-0 Poca experiencia previa en exportación directa.
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Costos logísticos elevados
+                p.mb-0 Costos logísticos elevados.
           div(numero="4" titulo="Amenazas") 
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Altos requisitos sanitarios del USDA y FDA
+                p.mb-0 Altos requisitos sanitarios del USDA y FDA.
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Competencia fuerte de México y Perú
+                p.mb-0 Competencia fuerte de México y Perú.
               li.mb-0.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 Fluctuaciones del tipo de cambio
+                p.mb-0 Fluctuaciones del tipo de cambio.
     
     p.mb-5 Con el fin de comprender el contexto macroambiental que influye en la internacionalización de Aguacatex S.A.S., se aplicó la matriz PESTEL, enfocada específicamente en el mercado de los Estados Unidos. Este análisis permite identificar los factores políticos, económicos, sociales, tecnológicos, ecológicos y legales que pueden afectar positiva o negativamente el ingreso y posicionamiento del aguacate Hass en este destino. La matriz PESTEL proporciona una visión integral de las condiciones externas que rodean al entorno de exportación, facilitando la anticipación de riesgos y la adaptación estratégica frente a las exigencias y tendencias del mercado estadounidense.
 
@@ -567,7 +567,7 @@
               img(src="@/assets/curso/tema3/33.png", alt="alt")
           .crd_hover_txt--body.bg-color-14
             h4.mb-3.text-center Político
-            p.mb-0 Acuerdos comerciales bilaterales, control fitosanitario (USDA/APHIS)
+            p.mb-0 Acuerdos comerciales bilaterales, control fitosanitario (USDA/APHIS).
       .col-xl-3.col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -575,7 +575,7 @@
               img(src="@/assets/curso/tema3/34.png", alt="alt")
           .crd_hover_txt--body.bg-color-14
             h4.mb-3.text-center Económico
-            p.mb-0 Alta capacidad adquisitiva, estabilidad del dólar, inflación moderada
+            p.mb-0 Alta capacidad adquisitiva, estabilidad del dólar, inflación moderada.
       .col-xl-3.col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -583,7 +583,7 @@
               img(src="@/assets/curso/tema3/35.png", alt="alt")
           .crd_hover_txt--body.bg-color-14
             h4.mb-3.text-center Social
-            p.mb-0 Creciente consumo de productos naturales y frescos, migración latina (mayor demanda)
+            p.mb-0 Creciente consumo de productos naturales y frescos, migración latina (mayor demanda).
     .row.justify-content-center.mb-5
       .col-xl-3.col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -592,7 +592,7 @@
               img(src="@/assets/curso/tema3/36.png", alt="alt")
           .crd_hover_txt--body.bg-color-14
             h4.mb-3.text-center Ecológico
-            p.mb-0 Preferencia por prácticas sostenibles, controles ambientales
+            p.mb-0 Preferencia por prácticas sostenibles, controles ambientales.
       .col-xl-3.col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -600,7 +600,7 @@
               img(src="@/assets/curso/tema3/37.png", alt="alt")
           .crd_hover_txt--body.bg-color-14
             h4.mb-3.text-center Legal
-            p.mb-0 Regulaciones FDA, normas de etiquetado, leyes de importación 
+            p.mb-0 Regulaciones FDA, normas de etiquetado, leyes de importación. 
     
     .bg-full-width.bg-color-6
       .p-4.p-md-5
@@ -619,7 +619,7 @@
         
         .tabla-a.color-acento-botones.mb-5 
           table
-            caption <b>Fuente</b>: SENA (2025).
+            caption <b>Fuente</b>: SENA, 2025.
             thead.bg-color-11
               tr
                 th.bg-color-10.text-white Empresa Referente
@@ -717,7 +717,7 @@
             
             .tabla-a.color-acento-botones.mb-5 
               table
-                caption <b>Fuente</b>: SENA (2025).
+                caption <b>Fuente</b>: SENA, 2025.
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Actividad
@@ -768,7 +768,7 @@
             
             .tabla-a.color-acento-botones
               table
-                caption <b>Fuente</b>: SENA (2025).
+                caption <b>Fuente</b>: SENA, 2025.
                 thead.bg-color-11
                   tr
                     th.bg-color-10.text-white Recurso
@@ -781,19 +781,19 @@
                     td $15,000
                   tr
                     td Logística
-                    td Transporte refrigerado y aduanas
+                    td Transporte refrigerado y aduanas.
                     td $25,000
                   tr
                     td <em>Marketing</em> digital
-                    td Campañas dirigidas y diseño web
+                    td Campañas dirigidas y diseño web.
                     td $10,000
                   tr
                     td Asesoría legal
-                    td Cumplimiento normativo USA
+                    td Cumplimiento normativo USA.
                     td $5,000
                   tr
                     td Participación en ferias
-                    td Stand, muestra de producto y viajes
+                    td Stand, muestra de producto y viajes.
                     td $12,000
     
     h5.mb-5.text-center Los mecanismos de control que se establecieron son:
@@ -847,7 +847,7 @@
     
     .tabla-a.color-acento-botones.mb-5
       table
-        caption <b>Fuente</b>: SENA (2025).
+        caption <b>Fuente</b>: SENA, 2025.
         thead.bg-color-11
           tr
             th.bg-color-10.text-white Indicador
@@ -858,40 +858,40 @@
             th.bg-color-10.text-white Acción correctiva
         tbody.bg-color-white
           tr
-            td Volumen exportado (toneladas)
-            td Incremento de 25 % anual
-            td Trimestral
-            td Gerente de exportaciones
-            td Reportes de embarques y aduanas
-            td Ajustar producción o logística
+            td Volumen exportado (toneladas).
+            td Incremento de 25 % anual.
+            td Trimestral.
+            td Gerente de exportaciones.
+            td Reportes de embarques y aduanas.
+            td Ajustar producción o logística.
           tr
-            td Ventas internacionales (%)
-            td Aumento del 25 % en 12 meses
-            td Mensual
-            td Área comercial
-            td Sistema CRM y facturación
-            td Revisión de precios y promociones
+            td Ventas internacionales (%).
+            td Aumento del 25 % en 12 meses.
+            td Mensual.
+            td Área comercial.
+            td Sistema CRM y facturación.
+            td Revisión de precios y promociones.
           tr
-            td Nuevos clientes/distribuidores
-            td Al menos 5 nuevos al año
-            td Semestral
-            td Gerente de ventas
-            td Contratos y acuerdos comerciales
-            td Revisar estrategia comercial
+            td Nuevos clientes/distribuidores.
+            td Al menos 5 nuevos al año.
+            td Semestral.
+            td Gerente de ventas.
+            td Contratos y acuerdos comerciales.
+            td Revisar estrategia comercial.
           tr
-            td Alcance en redes sociales
-            td +30 % seguidores y +15 % interacción
-            td Mensual
-            td <em>Marketing</em> digital
-            td Estadísticas de redes sociales
-            td Ajustar contenido y campañas
+            td Alcance en redes sociales.
+            td +30 % seguidores y +15 % interacción.
+            td Mensual.
+            td <em>Marketing</em> digital.
+            td Estadísticas de redes sociales.
+            td Ajustar contenido y campañas.
           tr
-            td Retorno de inversión (ROI)
-            td ≥ 15 % en 12 meses
-            td Anual
-            td Dirección financiera
-            td Informe financiero
-            td Revisar presupuesto y costos
+            td Retorno de inversión (ROI).
+            td ≥ 15 % en 12 meses.
+            td Anual.
+            td Dirección financiera.
+            td Informe financiero.
+            td Revisar presupuesto y costos.
     
     h5.text-center.mb-5 Matriz de control de actividades y cronograma
 
@@ -901,65 +901,65 @@
     
     .tabla-a.color-acento-botones.mb-5
       table
-        caption <b>Fuente</b>: SENA (2025).
+        caption <b>Fuente</b>: SENA, 2025.
         thead.bg-color-11
           tr
             th.bg-color-10.text-white Actividad
-            th.bg-color-10.text-white Indicador de Control
-            th.bg-color-10.text-white Fecha de Inicio
-            th.bg-color-10.text-white Fecha de Finalización
+            th.bg-color-10.text-white Indicador de control
+            th.bg-color-10.text-white Fecha de inicio
+            th.bg-color-10.text-white Fecha de finalización
             th.bg-color-10.text-white Responsable
             th.bg-color-10.text-white Estado
             th.bg-color-10.text-white Observaciones
         tbody.bg-color-white
           tr
-            td Registro FDA/APHIS
-            td Certificación obtenida
+            td Registro FDA/APHIS.
+            td Certificación obtenida.
             td Mes 1
             td Mes 2
-            td Jefe de calidad
-            td En progreso
-            td Documentación en revisión
+            td Jefe de calidad.
+            td En progreso.
+            td Documentación en revisión.
           tr
-            td Certificaciones GlobalG.A.P. y USDA Organic
-            td Certificado vigente
+            td Certificaciones GlobalG.A.P. y USDA Organic.
+            td Certificado vigente.
             td Mes 1
             td Mes 4
-            td Coordinador de certificación
-            td Pendiente
-            td En trámite
+            td Coordinador de certificación.
+            td Pendiente.
+            td En trámite.
           tr
-            td Desarrollo de marca y empaques
-            td Diseño aprobado
+            td Desarrollo de marca y empaques.
+            td Diseño aprobado.
             td Mes 3
             td Mes 6
-            td Equipo de <em>marketing</em>
-            td Pendiente
-            td Se espera diseño final
+            td Equipo de <em>marketing</em>.
+            td Pendiente.
+            td Se espera diseño final.
           tr
-            td Acuerdos logísticos y comerciales
-            td Contratos firmados
+            td Acuerdos logísticos y comerciales.
+            td Contratos firmados.
             td Mes 3
             td Mes 7
-            td Gerente de exportaciones
-            td En proceso
-            td Negociaciones avanzadas
+            td Gerente de exportaciones.
+            td En proceso.
+            td Negociaciones avanzadas.
           tr
-            td Lanzamiento piloto de exportación
-            td Volumen exportado inicial
+            td Lanzamiento piloto de exportación.
+            td Volumen exportado inicial.
             td Mes 5
             td Mes 7
-            td Logística y ventas
-            td No iniciado
-            td Planeado para Mes 5
+            td Logística y ventas.
+            td No iniciado.
+            td Planeado para Mes 5.
           tr
-            td Campaña promocional y <em>marketing</em>
-            td Alcance y participación
+            td Campaña promocional y <em>marketing</em>.
+            td Alcance y participación.
             td Mes 5
             td Mes 8
-            td <em>Marketing</em> digital
-            td No iniciado
-            td Campaña digital planificada
+            td <em>Marketing</em> digital.
+            td No iniciado.
+            td Campaña digital planificada.
     
     h5.text-center.mb-5 Evaluación de la matriz de evaluación de resultados
 
@@ -969,7 +969,7 @@
     
     .tabla-a.color-acento-botones.mb-5
       table
-        caption <b>Fuente</b>: SENA (2025).
+        caption <b>Fuente</b>: SENA, 2025.
         thead.bg-color-11
           tr
             th.bg-color-10.text-white Resultado esperado
@@ -982,44 +982,44 @@
         tbody.bg-color-white
           tr
             td Posicionamiento de marca en EE.UU.
-            td Reconocimiento de marca (%)
-            td Encuestas de consumidores
-            td Semestral
-            td <em>Marketing</em>
-            td Medio
-            td Incrementar publicidad
+            td Reconocimiento de marca (%).
+            td Encuestas de consumidores.
+            td Semestral.
+            td <em>Marketing</em>.
+            td Medio.
+            td Incrementar publicidad.
           tr
-            td Cumplimiento normativo
-            td 100 % de cumplimiento FDA/APHS
-            td Auditorías y reportes regulatorios
-            td Anual
-            td Calidad y legal
-            td Alto
-            td Mantener vigilancia
+            td Cumplimiento normativo.
+            td 100 % de cumplimiento FDA/APHS.
+            td Auditorías y reportes regulatorios.
+            td Anual.
+            td Calidad y legal.
+            td Alto.
+            td Mantener vigilancia.
           tr
-            td Incremento de ventas
-            td 25 % de crecimiento en ventas
-            td Reportes de ventas
-            td Trimestral
-            td Dirección comercial
-            td En progreso
-            td Ajustar tácticas si es necesario
+            td Incremento de ventas.
+            td 25 % de crecimiento en ventas.
+            td Reportes de ventas.
+            td Trimestral.
+            td Dirección comercial.
+            td En progreso.
+            td Ajustar tácticas si es necesario.
           tr
-            td Satisfacción del cliente
-            td Índice de satisfacción (NPS)
-            td Encuestas post-venta
-            td Trimestral
-            td Atención al cliente
-            td Alto
-            td Fidelización de clientes
+            td Satisfacción del cliente.
+            td Índice de satisfacción (NPS).
+            td Encuestas post-venta.
+            td Trimestral.
+            td Atención al cliente.
+            td Alto.
+            td Fidelización de clientes.
           tr
-            td Eficiencia logística
-            td Reducción de tiempos y costos logísticos
-            td Análisis operativo y financiero
-            td Trimestral
-            td Logística
-            td Medio
-            td Optimizar rutas y costos
+            td Eficiencia logística.
+            td Reducción de tiempos y costos logísticos.
+            td Análisis operativo y financiero.
+            td Trimestral.
+            td Logística.
+            td Medio.
+            td Optimizar rutas y costos.
 
     p.mb-5 El plan de mercadeo internacional diseñado para Aguacatex S.A.S. es altamente aceptable y pertinente, dado que responde de manera estratégica a las condiciones actuales del mercado estadounidense y a las capacidades internas de la empresa. La identificación clara de fortalezas, oportunidades, debilidades y amenazas, junto con un análisis detallado del entorno político, económico, social, tecnológico, ecológico y legal, asegura que las acciones propuestas estén alineadas con las exigencias regulatorias y las tendencias de consumo.
 

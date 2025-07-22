@@ -150,7 +150,7 @@
             figure
               img.d-none.d-md-flex(src="@/assets/curso/tema1/8.png", data-aos="zoom-in", alt="La figura presenta los criterios fundamentales que deben considerarse al momento de formular objetivos. Claridad: deben ser específicos y comprensibles. Alcanzables: realistas según los recursos y capacidades. Tiempo definido: establecer un plazo para su cumplimiento. Medibles: posibles de cuantificar y evaluar. Relevancia: coherentes con la estrategia global de la empresa.  ")
               img.d-flex.d-md-none(src="@/assets/curso/tema1/8-1.png", data-aos="zoom-in", alt="La figura presenta los criterios fundamentales que deben considerarse al momento de formular objetivos. Claridad: deben ser específicos y comprensibles. Alcanzables: realistas según los recursos y capacidades. Tiempo definido: establecer un plazo para su cumplimiento. Medibles: posibles de cuantificar y evaluar. Relevancia: coherentes con la estrategia global de la empresa.  ")
-            figcaption.mt-2.mb-4 <b>Nota</b>. Adaptado SENA (2025).
+            figcaption.mt-2.mb-4 <b>Nota</b>. Adaptado SENA, 2025.
 
     .bg-color-3.p-4(data-aos="fade-left").mb-5
       .row.align-items-start
@@ -251,7 +251,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h3.mb-1 Planeamiento de objetivos bajo el método SMART
-                      p.mb-0 Se invita a visualizar el video  del Ecosistema de Recursos Educativos Digitales SENA, una guía práctica para definir metas claras y efectivas.  
+                      p.mb-0 Se invita a explorar el video  del Ecosistema de Recursos Educativos Digitales SENA, una guía práctica para definir metas claras y efectivas.  
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=gY607xwUgpw" target="_blank")
                         span Ver video

@@ -193,7 +193,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Estrategia de ventas
-                  p.mb-0 Se invita a consultar el video, del Ecosistema de Recursos Educativos Digitales SENA, ideal para comprender conceptos clave en el proceso comercial. 
+                  p.mb-0 Se invita a consultar el video del Ecosistema de Recursos Educativos Digitales SENA, ideal para comprender conceptos clave en el proceso comercial. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=mwk2MnDXtPI" target="_blank")
                     span Ver video
