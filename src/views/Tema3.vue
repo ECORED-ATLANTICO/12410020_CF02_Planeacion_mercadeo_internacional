@@ -28,7 +28,7 @@
       .col-lg-9.order-lg-1
         .bg-color-3.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/3.svg", style="max-width: 90px").mx-auto
             .col-lg
               p "El plan de mercadeo internacional es un documento estratégico que integra el análisis del entorno, la definición de objetivos, selección de estrategias, asignación de recursos y programación de actividades para lograr la inserción exitosa de la empresa en mercados extranjeros".

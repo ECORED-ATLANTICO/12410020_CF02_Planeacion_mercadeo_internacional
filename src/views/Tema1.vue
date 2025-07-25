@@ -31,7 +31,7 @@
       .col-lg-9
         .bg-color-3.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/3.svg", style="max-width: 90px").mx-auto
             .col-lg
               p "Los objetivos de mercadeo internacional son las metas que una empresa se plantea alcanzar en el ámbito de los mercados internacionales. Estos objetivos orientan la dirección estratégica y las actividades comerciales en el exterior, buscando optimizar la presencia y competitividad global de la empresa".
@@ -111,7 +111,7 @@
       .col-lg-9
         .bg-color-3.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema1/7.svg", style="max-width: 90px").mx-auto
             .col-lg
               p "Los objetivos de mercadeo internacional se estructuran para atender necesidades específicas según la etapa y el contexto del negocio en el mercado global."
@@ -154,7 +154,7 @@
 
     .bg-color-3.p-4(data-aos="fade-left").mb-5
       .row.align-items-start
-        .col-lg-auto
+        .col-lg-auto.mb-3.mb-lg-0
           img(src="@/assets/curso/tema1/9.svg", style="max-width: 90px").mx-auto
         .col-lg
           h5 "También deben contemplar factores del entorno internacional, como diferencias culturales, aspectos económicos y regulaciones legales que puedan influir en su viabilidad y efectividad."
@@ -171,9 +171,9 @@
     .bg-full-width.bg-color-2
       .p-4.p-md-5
         TabsC.color-primario.mb-5
-          .p-3.p-md-4(titulo="Específicos ")
+          .p-3.p-lg-4(titulo="Específicos ")
             .row.align-items-center.justify-content-center
-              .col-md-8.order-2
+              .col-md-10.order-2
                 h4 Específicos 
                 p Los objetivos deben estar claramente definidos y expresados con precisión. Esto evita ambigüedades y facilita que todos los involucrados comprendan el propósito y la dirección estratégica. 
                 h4 Ejemplo
@@ -189,9 +189,9 @@
               .col-md-6.col-lg-4.order-1.mb-4.mb-md-0
                 figure
                   img(src='@/assets/curso/tema1/10.png', alt='Texto que describa la imagen')
-          .p-3.p-md-4(titulo="Medibles")
+          .p-3.p-lg-4(titulo="Medibles")
             .row.align-items-center.justify-content-center
-              .col-md-8.order-2
+              .col-md-10.order-2
                 h4 Medibles
                 p Es indispensable que los objetivos incluyan indicadores que permitan evaluar avances o resultados de forma objetiva. Esto facilita el seguimiento y la toma de decisiones basadas en evidencia. 
                 h4 Ejemplo
@@ -207,9 +207,9 @@
               .col-md-6.col-lg-4.order-1.mb-4.mb-md-0
                 figure
                   img(src='@/assets/curso/tema1/11.png', alt='Texto que describa la imagen')
-          .p-3.p-md-4(titulo="Alcanzables")
+          .p-3.p-lg-4(titulo="Alcanzables")
             .row.align-items-center.justify-content-center
-              .col-md-8.order-2
+              .col-md-10.order-2
                 h4 Alcanzables
                 p Los objetivos deben ser realistas, considerando los recursos, capacidades y entorno actual de la empresa. Proyectar metas inalcanzables puede generar frustración y desperdicio de recursos. 
                 h4 Ejemplo
@@ -218,9 +218,9 @@
               .col-md-6.col-lg-4.order-1.mb-4.mb-md-0
                 figure
                   img(src='@/assets/curso/tema1/12.png', alt='Texto que describa la imagen')
-          .p-3.p-md-4(titulo="Relevantes")
+          .p-3.p-lg-4(titulo="Relevantes")
             .row.align-items-center.justify-content-center
-              .col-md-8.order-2
+              .col-md-10.order-2
                 h4 Relevantes
                 p Todo objetivo debe aportar valor estratégico a la empresa y estar alineado con su visión global. La relevancia asegura que el esfuerzo se enfoque en aspectos clave para el éxito internacional.
                 h4 Ejemplo
@@ -229,9 +229,9 @@
               .col-md-6.col-lg-4.order-1.mb-4.mb-md-0
                 figure
                   img(src='@/assets/curso/tema1/13.png', alt='Texto que describa la imagen')
-          .p-3.p-md-4(titulo="Temporales")
+          .p-3.p-lg-4(titulo="Temporales")
             .row.align-items-center.justify-content-center
-              .col-md-8.order-2
+              .col-md-10.order-2
                 h4 Temporales
                 p Los objetivos deben tener un marco temporal claro. Establecer un plazo permite planificar acciones, asignar recursos eficientemente y evaluar los logros en el tiempo estimado.
                 h4 Ejemplo

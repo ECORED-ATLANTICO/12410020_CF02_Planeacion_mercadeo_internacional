@@ -29,7 +29,7 @@
       .col-lg-9.order-lg-1
         .bg-color-3.p-4(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema2/3.svg", style="max-width: 90px").mx-auto
             .col-lg
               p "Las estrategias de mercadeo internacional son los planes de acción que orientan el comportamiento de la empresa para alcanzar los objetivos fijados en los mercados exteriores. Estas estrategias definen cómo la empresa competirá, qué mercados abordará y qué tácticas empleará para posicionar sus productos o servicios".
