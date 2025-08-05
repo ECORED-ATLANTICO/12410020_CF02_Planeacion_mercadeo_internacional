@@ -20,7 +20,7 @@ export default {
       tema: 'Aspectos teóricos del plan de mercadeo internacional.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
+        '<b> Objetivo:</b> lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',

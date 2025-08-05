@@ -288,8 +288,8 @@ export default {
     },
     {
       referencia:
-        'David, F. R., David, F. R., & David, M. E. (2020). <em>Strategic management: A competitive advantage approach, concepts and cases (17.ª ed.). Pearson.</em> Disponible en PDF: f',
-      link: 'https://pracownik.kul.pl/files/12439/public/3_David.pd',
+        'David, F. R., David, F. R., & David, M. E. (2020). <em>Strategic management: A competitive advantage approach, concepts and cases (17.ª ed.). Pearson.</em>',
+      link: '',
     },
     {
       referencia:
@@ -348,7 +348,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Mario Morales',
+          nombre: 'Mario Morales Cabrera',
           cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -358,7 +358,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll',
+          nombre: 'Jair Enrique Coll Gallardo',
           cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

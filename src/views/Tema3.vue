@@ -650,8 +650,8 @@
         .row.justify-content-center
           .col-lg-8
             figure
-              img.d-none.d-md-flex(src="@/assets/curso/tema3/40.png", data-aos="zoom-in")
-              img.d-flex.d-md-none(src="@/assets/curso/tema3/40-1.png", data-aos="zoom-in")
+              img.d-none.d-md-flex(src="@/assets/curso/tema3/40.png", alt="A continuación, se  detalla la segmentación del mercado meta para optimizar la penetración comercial:, Geográfica: California, Florida, Texas, Nueva York, Demográfica: adultos entre 25 y 55 años, profesionales y familias jóvenes, Psicográfica: consumidores de productos saludables, sostenibles y gourmet, Conductual: alta frecuencia de compra y consumo diario de productos frescos", data-aos="zoom-in")
+              img.d-flex.d-md-none(src="@/assets/curso/tema3/40-1.png", alt="", data-aos="zoom-in")
     
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
