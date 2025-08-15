@@ -61,7 +61,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/5.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La clasificación de las estrategias permite comprender cómo las organizaciones adaptan sus enfoques comerciales a diferentes contextos globales, con el fin de alcanzar sus objetivos en mercados internacionales. Las siguientes tarjetas informativas presenta los principales tipos de estrategias de mercadeo internacional, sus características distintivas y ejemplos de empresas que las han implementado exitosamente.
+            p.mb-0 La clasificación de las estrategias permite comprender cómo las organizaciones adaptan sus enfoques comerciales a diferentes contextos globales, con el fin de alcanzar sus objetivos en mercados internacionales. Las siguientes tarjetas informativas presentan los principales tipos de estrategias de mercadeo internacional, sus características distintivas y ejemplos de empresas que las han implementado exitosamente.
         
         .row.justify-content-center.align-items-center.z-2
           .col-8.col-sm-6.col-lg-3.order-lg-2

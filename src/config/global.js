@@ -289,7 +289,7 @@ export default {
     {
       referencia:
         'David, F. R., David, F. R., & David, M. E. (2020). <em>Strategic management: A competitive advantage approach, concepts and cases (17.ª ed.). Pearson.</em>',
-      link: '',
+      link: 'https://pracownik.kul.pl/files/12439/public/3_David.pdf ',
     },
     {
       referencia:
@@ -324,7 +324,7 @@ export default {
     {
       referencia:
         'ProColombia. (2025). <em>Publicaciones y estudios de mercado.</em> Recuperado de ',
-      link: 'https://www.procolombia.co',
+      link: '',
     },
   ],
   creditos: [

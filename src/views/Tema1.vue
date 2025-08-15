@@ -137,7 +137,7 @@
       h2 1.3	Criterios de diseño
     
 
-    p.mb-5 Para que los objetivos de mercadeo internacional sean efectivos deben cumplir con criterios relevantes. Además de estos criterios, es fundamental que los objetivos estén alineados con la misión y visión organizacional, asegurando coherencia estratégica. 
+    p.mb-5 Para que los objetivos de mercadeo internacional sean efectivos, deben cumplir con criterios relevantes. Además de estos criterios, es fundamental que los objetivos estén alineados con la misión y visión organizacional, asegurando coherencia estratégica. 
 
     .bg-full-width.bg-color-6
       .p-4.p-md-5

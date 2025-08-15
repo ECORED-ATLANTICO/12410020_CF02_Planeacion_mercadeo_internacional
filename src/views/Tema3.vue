@@ -135,7 +135,7 @@
     
     AcordionA(tipo="a" clase-tarjeta="tarjeta acordion-mercado").mb-5
       div(titulo="Resumen  ejecutivo")
-        p Constituye una síntesis clara y concisa del plan de mercadeo internacional, donde se exponen los objetivos, estrategias y aspectos más relevantes, con el fin de facilitar una rápida comprensión por parte de los directivos o interesados. Su elaboración requiere condensar los elementos clave del plan, redactando un texto breve pero sustancial que refleje la dirección estratégica sin entrar en detalles técnicos.
+        p Constituye una síntesis clara y concisa del plan de mercadeo internacional, donde se exponen los objetivos, estrategias y aspectos más relevantes, con el fin de facilitar una rápida comprensión por parte de los directivos o interesados. Su elaboración requiere condensar los elementos clave del plan, redactando un texto breve, pero sustancial que refleje la dirección estratégica sin entrar en detalles técnicos.
 
       div(titulo="Análisis del entorno")
         p Permite identificar y comprender los factores externos (económicos, políticos, culturales, legales y tecnológicos) que influyen en el desempeño de la empresa en mercados internacionales. Para desarrollarlo, es necesario recopilar y examinar información de fuentes confiables, evaluando el contexto macro y microeconómico del país o región objetivo, lo cual proporciona insumos esenciales para una estrategia adaptada a la realidad del mercado.
@@ -427,7 +427,6 @@
               figure
                 img(src="@/assets/curso/tema3/28.svg", data-aos="zoom-in")
             .col-lg-6.text-white.p-4
-              h5 ¿Sabías qué?
               p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
       
               TarjetaAudio.color-acento-contenido.bg-color-13.mb-3(
@@ -470,10 +469,10 @@
                 p.mb-0 <b>Empresa</b>: Aguacatex S.A.S.
               li.d-flex
                 i.fas.fa-circle.bg-color-5
-                p.mb-0 <b>Producto</b>: Aguacate Hass
+                p.mb-0 <b>Producto</b>: Aguacate Hass.
               li.d-flex
                 i.fas.fa-circle.bg-color-5
-                p.mb-0 <b>Destino</b>: Estados Unidos de América
+                p.mb-0 <b>Destino</b>: Estados Unidos de América.
           div(titulo="Resumen ejecutivo")
             p Aguacatex S.A.S. busca posicionarse como exportador líder de aguacate Hass <em>premium</em> en EE. UU., aprovechando la creciente demanda de alimentos saludables. El plan busca cumplir normativas regulatorias, establecer canales de distribución en Florida, Texas y California, y posicionar la marca a través de campañas digitales, ferias internacionales y alianzas estratégicas. Se proyecta un incremento del 25 % en ventas internacionales en el primer año.
           div(titulo="Objetivos del plan")
@@ -734,29 +733,28 @@
                     td 
                   tr
                     td Certificaciones (GlobalG.A.P., USDA Organic)
-                    td(rowspan="3").bg-color-17
+                    td(rowspan="4").bg-color-17
                     td 
                     td 
                   tr
                     td Análisis de mercado y selección de canales
-                    td(rowspan="3").bg-color-18 
+                    td
                     td 
                   tr
                     td Desarrollo de marca y empaques
                     td
-                    td(rowspan="4").bg-color-19 
+                    td(rowspan="4").bg-color-18
+                    td 
                   tr
                     td Acuerdos logísticos y comerciales
                     td 
-                    td 
+                    td(rowspan="3").bg-color-19  
                   tr
                     td Lanzamiento piloto de exportación
                     td 
                     td 
-                    td 
                   tr
                     td Campaña promocional y <em>marketing</em>
-                    td 
                     td 
                     td 
 
