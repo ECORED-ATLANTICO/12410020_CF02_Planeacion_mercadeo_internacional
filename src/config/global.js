@@ -154,7 +154,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA2_12410020_DU.pdf',
+        download: 'downloads/CFA2_12410020_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -323,7 +323,7 @@ export default {
     },
     {
       referencia:
-        'ProColombia. (2025). <em>Publicaciones y estudios de mercado.</em> Recuperado de ',
+        'ProColombia. (2025). <em>Publicaciones y estudios de mercado.</em>',
       link: '',
     },
   ],
